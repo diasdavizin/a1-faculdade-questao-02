@@ -1,0 +1,15 @@
+.title{
+  padding: 20px;
+  margin: 20px auto;
+  width: 50%;
+  background-color: #f8f9fa;
+  align-items: center;
+  align-content: center;
+}
+
+pre {
+  background-color: #f8f9fa;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
